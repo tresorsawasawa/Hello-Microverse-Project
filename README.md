@@ -2,7 +2,7 @@
 
 # Hello Microverse Project
 
-> This is project is about some skills learmed and applied througth the project.
+> This project is about some skills learmed and applied througth the project.
 
 ![screenshot](./app_screenshot.png)
 
