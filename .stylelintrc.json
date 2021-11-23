@@ -1,18 +1,9 @@
 {
-  "plugins": [
-    "stylelint-scss"
-  ],
-  "rules": {
-    "at-rule-no-unknown": null,
-    "scss/at-rule-no-unknown": true,
-    "scss/dollar-variable-pattern": "^foo",
-    "scss/selector-no-redundant-nesting-selector": true,
-    "block-closing-brace-space-after": "never-single-line",
-    "block-closing-brace-newline-after": "always",
-    "block-closing-brace-newline-before": "always-multi-line",
-    "block-closing-brace-space-before": "always-single-line",
-    "block-opening-brace-newline-after": "always-multi-line",
-    "block-opening-brace-space-after": "always-single-line",
-    "block-opening-brace-space-before": "always"
+  "stylelint": {
+    "extends": "stylelint-config-standard",
+    "rules": {
+      "no-empty-source": null,
+      "max-empty-lines": 6
+    }
   }
 }
