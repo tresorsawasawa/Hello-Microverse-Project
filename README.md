@@ -2,7 +2,7 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> This is project is about some skills learmed and applied througth the project.
 
 ![screenshot](./app_screenshot.png)
 
@@ -13,11 +13,6 @@ Additional description about the project and its features.
 - Major languages
 - Frameworks
 - Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
 
 ## Getting Started
 
@@ -45,15 +40,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/tresorsawasawa)
+- Twitter: [@twitterhandle](https://twitter.com/TresorSawasawa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tr%C3%A9sor-sawasawa-43745320b/)
 
 ## 🤝 Contributing
 
