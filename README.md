@@ -40,9 +40,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/tresorsawasawa)
-- Twitter: [@twitterhandle](https://twitter.com/TresorSawasawa)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tr%C3%A9sor-sawasawa-43745320b/)
+- GitHub: [@tresorsawasawa](https://github.com/tresorsawasawa)
+- Twitter: [@tresorsawasawa](https://twitter.com/TresorSawasawa)
+- LinkedIn: [Trésor Sawasawa](https://www.linkedin.com/in/tr%C3%A9sor-sawasawa-43745320b/)
 
 ## 🤝 Contributing
 
